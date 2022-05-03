@@ -110,12 +110,12 @@ Enter 키와 검색 버튼을 통하여 검색을 실행할 수 있도록 구현
 
 ## 팀원 소개
 
-| 이름         | 깃허브                                        | 역할 |
-| ------------ | --------------------------------------------- | --- |
-| 강동진       | [jinn2u](https://github.com/jinn2u)           | |
-| 박상우       | [SangWoo9734](https://github.com/SangWoo9734) | 요구사항 1 구현, 요구사항 1 랜더링 최적화 |
-| 신항민       | [ssinking91](https://github.com/ssinking91)   | |
-| 이장민       | [leo-xee](https://github.com/leo-xee)         | |
-| 오카무라카에 | [kaehehehe](https://github.com/kaehehehe)     | 요구사항 4 구현, 이슈 카드에 제목과 Repository명, 아바타, ~ago 형태의 작성날짜가 나오도록 구현| 
-| 허민         | [hhhminme](https://github.com/hhhminme)       | 1차 과제 팀 리더, 요구사항 1 구현 및 모달창 구현|
-| 전호용       | [mooroom](https://github.com/mooroom)         | |
+| 이름         | 깃허브                                        |
+| ------------ | --------------------------------------------- | 
+| 강동진       | [jinn2u](https://github.com/jinn2u)           | 
+| 박상우       | [SangWoo9734](https://github.com/SangWoo9734) | 
+| 신항민       | [ssinking91](https://github.com/ssinking91)   | 
+| 이장민       | [leo-xee](https://github.com/leo-xee)         | 
+| 오카무라카에 | [kaehehehe](https://github.com/kaehehehe)     | 
+| 허민         | [hhhminme](https://github.com/hhhminme)       |
+| 전호용       | [mooroom](https://github.com/mooroom)         | 
